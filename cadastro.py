@@ -16,3 +16,4 @@ while True:
 
 print('=-' * 30)
 print(f'Foram cadastradas {len(pessoas)} pessoa(s).')
+print('-----PROGRAMA FINALIZADO COM SUCESSO-----')
